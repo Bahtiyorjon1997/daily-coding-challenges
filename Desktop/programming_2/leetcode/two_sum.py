@@ -12,6 +12,7 @@ class Solution:
 # 1
 instance1 = Solution()
 print(instance1.twoSum([1, 2, 3, 4], 4))
+
 # 2
 instance1 = Solution()
 print(instance1.twoSum([4, 5, 6, 7], 12))
